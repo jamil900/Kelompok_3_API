@@ -128,7 +128,7 @@ class _AddPostPageState extends State<AddPostPage> {
                   });
                 }
               },
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.blueAccent),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.blue),
               child: Text(widget.post != null ? "Edit" : "Tambah", style: TextStyle(color: Colors.white),),
             ),
           )
