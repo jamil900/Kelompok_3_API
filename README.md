@@ -1,6 +1,6 @@
 ## kel_3_api
 
-Jamil, Prayoga, 
+Jamil, Prayoga, Reksya
 
 A new Flutter project.
 
